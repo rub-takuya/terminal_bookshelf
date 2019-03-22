@@ -8,9 +8,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> shelf.add_book("ハリーポッター","J・K・ローリング")  
 追加したよ(￣･ω･￣)  
 >>> shelf.list_book()  
-Title     | Author           
--------------------------  
-ハリーポッター| J・K・ローリング  
--------------------------  
+Title     | Author               
+ハリーポッター| J・K・ローリング    
 >>> exit()  
 
